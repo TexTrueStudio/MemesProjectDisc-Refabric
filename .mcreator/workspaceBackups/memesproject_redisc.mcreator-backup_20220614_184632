@@ -14,7 +14,7 @@
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "internet_overdose"
+      "registry_name": "internetoverdose"
     },
     {
       "name": "PartypiKongED",
@@ -22,7 +22,7 @@
       "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "paripi_koumei_ed"
+      "registry_name": "partypi_kong_ed"
     },
     {
       "name": "ParipiKoumeiED2nd",
@@ -39,30 +39,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "paripi_koumei_ed_full"
-    },
-    {
-      "name": "MoodHigh",
-      "type": "musicdisc",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "mood_high"
-    },
-    {
-      "name": "ParipiKoumeiOP",
-      "type": "musicdisc",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "paripi_koumei_op"
-    },
-    {
-      "name": "ParipiKoumeiOPFull",
-      "type": "musicdisc",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "paripi_koumei_op_full"
     }
   ],
   "variable_elements": [],
@@ -122,42 +98,27 @@
       ],
       "category": "record",
       "subtitle": ""
-    },
-    {
-      "name": "chikichikibanban_full",
-      "files": [
-        "chikichikibanban_full_ver"
-      ],
-      "category": "record",
-      "subtitle": ""
     }
   ],
   "language_map": {
     "en_us": {
       "item.memesproject_redisc.paripi_koumei_ed_2nd.desc": "EIKO starring 96猫、諸葛孔明（CV.置鮎 龍太郎）、KABE太人（CV.千葉翔也）-気分上々↑↑",
-      "item.memesproject_redisc.paripi_koumei_ed.desc": "EIKO starring 96猫、諸葛孔明（CV.置鮎 龍太郎）-気分上々↑↑",
-      "subtitles.chikichikibanban_full": "",
-      "item.memesproject_redisc.only_my_railgun": "Only My Railgun(A Certain Scientific Railgun S1 OP1)",
-      "item.memesproject_redisc.paripi_koumei_op_full": "チキチキバンバン(Paripi Koumei OP Full ver.)",
+      "item.memesproject_redisc.partypi_kong_ed.desc": "EIKO starring 96猫、諸葛孔明（CV.置鮎 龍太郎）-気分上々↑↑",
+      "item.memesproject_redisc.paripi_koumei_ed_2nd": "気分上々↑↑(Paripi Koumei ED)",
+      "item.memesproject_redisc.only_my_railgun": "fripSide-Only My Railgun",
       "subtitles.moodhigh_original": "",
       "subtitles.moodhigh_full_ver": "",
-      "item.memesproject_redisc.paripi_koumei_ed_full.desc": "EIKO starring 96猫、諸葛孔明（CV.置鮎 龍太郎）、KABE太人（CV.千葉翔也）、久遠七海 starring Lezel-気分上々↑↑(Full ver.)",
-      "item.memesproject_redisc.mood_high": "気分上々↑↑",
+      "item.memesproject_redisc.paripi_koumei_ed_full.desc": "EIKO starring 96猫、諸葛孔明（CV.置鮎 龍太郎）、KABE太人（CV.千葉翔也）、久遠七海 starring Lezel-気分上々↑↑",
       "item.memesproject_redisc.paripi_koumei_ed_full": "気分上々↑↑(Paripi Koumei ED Full ver.)",
       "subtitles.chikichikibanban_tv_ver": "",
-      "item.memesproject_redisc.paripi_koumei_ed": "気分上々↑↑(Partypi Kong ED)",
-      "item.memesproject_redisc.paripi_koumei_op": "チキチキバンバン(Paripi Koumei OP TV ver.)",
-      "item.memesproject_redisc.internet_overdose.desc": "KOTOKO-INTERNET OVERDOSE",
-      "item.memesproject_redisc.only_my_railgun.desc": "fripSide-Only My Railgun",
-      "subtitles.moodhigh_2nd": "",
-      "item.memesproject_redisc.paripi_koumei_op_full.desc": "QUEENDOM-チキチキバンバン(Full ver.)",
-      "item.memesproject_redisc.paripi_koumei_ed_2nd": "気分上々↑↑(Paripi Koumei ED)",
-      "item.memesproject_redisc.mood_high.desc": "mihimaru GT-気分上々↑↑",
       "subtitles.internet_overdose": "",
       "subtitles.moodhigh_1st": "",
       "subtitles.only_my_railgun": "",
-      "item.memesproject_redisc.internet_overdose": "INTERNET OVERDOSE(NEEDY GIRL OVERDOSE Main Theme)",
-      "item.memesproject_redisc.paripi_koumei_op.desc": "QUEENDOM-チキチキバンバン(TV ver.)"
+      "item.memesproject_redisc.partypi_kong_ed": "気分上々↑↑(Partypi Kong ED)",
+      "item.memesproject_redisc.internetoverdose": "INTERNET OVERDOSE(NEEDY GIRL OVERDOSE Main Theme)",
+      "item.memesproject_redisc.internetoverdose.desc": "KOTOKO-INTERNET OVERDOSE",
+      "item.memesproject_redisc.only_my_railgun.desc": "fripSide-Only My Railgun",
+      "subtitles.moodhigh_2nd": ""
     }
   },
   "foldersRoot": {

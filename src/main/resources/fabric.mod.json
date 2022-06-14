@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "id": "memesproject_redisc",
-  "version": "1.0.0",
+  "version": "0.0.1-alpha1",
   "name": "MemesProject Disc Refabric",
   "authors": [
-    "31408, MCreator"
+    "TexTrue, TexTrueStudio"
   ],
   "contact": {
-    "homepage": "https://mcreator.net",
+    "homepage": "https://github.com/TexTrueStudio/MemesProjectDisc-Refabric",
     "sources": "https://github.com/ClothCreators/Fabric-Generator-MCreator"
   },
-  "license": "Academic Free License v3.0",
+  "license": "MIT License",
+  "icon": "assets/memesproject_redisc/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
